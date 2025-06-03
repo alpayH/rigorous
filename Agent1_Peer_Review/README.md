@@ -23,7 +23,7 @@ This project implements a sophisticated multi-agent system for analyzing academi
 - Identify optimal foundation models for specific review tasks.
 
 ## 🧾 Prompt Engineering & Modularity
-- Improve prompt quality for consistent agent outputs.
+- Improve prompt quality for consistent, meaningful, and fair agent outputs.
 - Refactor prompts into editable formats (e.g., `.txt`, `.json`) for easier debugging, iteration, and community feedback.
 
 ## 📝 Feedback Quality & Depth
