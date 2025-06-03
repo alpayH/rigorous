@@ -44,7 +44,6 @@ This project implements a sophisticated multi-agent system for analyzing academi
 ## 📚 Data & Knowledge Integration
 - Build a RAG-ready database of preprints, reviews, and published papers.
 - Collect journal/conference submission criteria for automatic formatting guidance.
-- Develop and 
 
 ## ⚙️ Scalability & Performance
 - Parallelize the review pipeline for speed and batch processing.
