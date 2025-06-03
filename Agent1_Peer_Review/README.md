@@ -41,10 +41,16 @@ This project is open source under the MIT License. We welcome contributions from
 ## 📚 Data & Knowledge Integration
 - Build a RAG-ready database of preprints, reviews, and published papers.
 - Collect journal/conference submission criteria for automatic formatting guidance.
+- Develop and 
 
 ## ⚙️ Scalability & Performance
 - Parallelize the review pipeline for speed and batch processing.
 - Support diverse input formats: PDF, `.docx`, LaTeX, Markdown, Overleaf, etc.
+
+## 💬 User Feedback & Iteration
+- Design a system for authors to rate and comment on individual review suggestions.
+- Use this feedback to automatically identify high-value vs. low-value outputs.
+- Enable fine-tuning of agents based on aggregated user response patterns.
 
 
 **Share your feedback**: Submit an issue with your ideas and suggestions. We want to know what kind of feedback you find useful, what is useless, and what you would expect in an ideal review report!
