@@ -16,7 +16,7 @@ This project is open source under the MIT License. We welcome contributions from
 **We Need Your Help!** This a work in progress, which means:
 
 - **Expect imperfections**: The system is continuously being improved
-- **Your expertise matters**: Help us improve agent accuracy, especially specialized agents
+- **Your expertise matters**: Help us improve agent accuracy, especially specialized agents.
 - **Key areas for contribution**:
   - Developing specialized agents for different research fields
   - Improving prompt engineering for existing agents
@@ -27,7 +27,7 @@ This project is open source under the MIT License. We welcome contributions from
   - Reproduce results based on available code and data?
   - Help us aggregate a database of publicly available preprint, reviews, and final manuscripts for a RAG System.
 
-**Share your feedback**: Submit an issue with your ideas and suggestions.
+**Share your feedback**: Submit an issue with your ideas and suggestions. We want to know what kind of feedback you find useful, what is useless, and what you would expect in an ideal review report!
 
 ## Agent Structure
 
