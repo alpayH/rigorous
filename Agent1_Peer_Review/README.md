@@ -36,9 +36,10 @@ This project is open source under the MIT License. We welcome contributions from
 ## 🎯 Accuracy & Reproducibility
 - Boost analytical accuracy across formats and domains.
 - Develop reproducibility agents that verify results based on shared code and data.
+- Develop a robust scoring system across feedback categories that can be used to track improvements from v1 to v2
 
 ## 📚 Data & Knowledge Integration
-- Build a RAG-ready database of preprints, reviews, and final papers.
+- Build a RAG-ready database of preprints, reviews, and published papers.
 - Collect journal/conference submission criteria for automatic formatting guidance.
 
 ## ⚙️ Scalability & Performance
