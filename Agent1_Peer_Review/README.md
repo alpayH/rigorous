@@ -35,6 +35,9 @@ This project implements a sophisticated multi-agent system for analyzing academi
 - Add charts and illustration with review insights.
 - Extract the most relevant points and highlight them in an additional section at the beginning of the report
 - Help automate high-value, complex review tasks — such as assessing novelty, improving storyline and narrative flow, embedding research questions and findings within existing literature, and highlighting contributions without overselling them.
+- Enable report personalization, allowing authors to specify focus areas (e.g. methodology, writing), preferred tone (e.g. critical, supportive), formatting preferences, or model selection (e.g., Nano vs. 4.1)
+- Develop in-text feedback capabilities that highlight specific manuscript passages with contextual suggestions and inline comments.
+- Integrate review suggestions already in the creative process (Cursor for papers)
 
 ## 🎯 Accuracy & Reproducibility
 - Boost analytical accuracy across formats and domains.
@@ -53,9 +56,6 @@ This project implements a sophisticated multi-agent system for analyzing academi
 - Design a system for authors to rate and comment on individual review suggestions.
 - Use this feedback to automatically identify high-value vs. low-value outputs.
 - Enable fine-tuning of agents based on aggregated user response patterns.
-- Enable report personalization, allowing authors to specify focus areas (e.g. methodology, writing), preferred tone (e.g. critical, supportive), formatting preferences, or model selection (e.g., Nano vs. 4.1)
-- Develop in-text feedback capabilities that highlight specific manuscript passages with contextual suggestions and inline comments.
-
 
 **Share your feedback**: Submit an issue with your ideas and suggestions. We want to know what kind of feedback you find useful, what is useless, and what you would expect in an ideal review report!
 
