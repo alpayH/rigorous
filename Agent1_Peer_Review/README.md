@@ -11,8 +11,6 @@ This project implements a sophisticated multi-agent system for analyzing academi
 
 ## Join the Project
 
-This project is open source under the MIT License. We welcome contributions from the community to help improve the AI Reviewer system. Please feel free to submit issues, pull requests, or suggestions for improvements.
-
 **We Need Your Help!** This a work in progress, which means:
 
 - **Expect imperfections**: The system is continuously being improved
