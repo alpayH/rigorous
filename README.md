@@ -21,8 +21,7 @@ This repository is intended for tools that make the creation, evaluation, and di
   - PDF report generation
   - [📄 Detailed Documentation and Key Areas for Contribution](https://github.com/robertjakob/rigorous/tree/main/Agent1_Peer_Review#readme)
   - Please provide feedback via [this short feedback form](https://docs.google.com/forms/d/1EhQvw-HdGRqfL01jZaayoaiTWLSydZTI4V0lJSvNpds) to help us improve the system.
-**  - We are currently processing your feedback for v2.
-**
+  -  We are currently processing your feedback for v2.
 
 ### In Development
 - **Agent2_Outlet_Fit**: 🚧 In Development
