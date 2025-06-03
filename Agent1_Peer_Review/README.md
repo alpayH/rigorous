@@ -17,16 +17,36 @@ This project is open source under the MIT License. We welcome contributions from
 
 - **Expect imperfections**: The system is continuously being improved
 - **Your expertise matters**: Help us improve agent accuracy, especially specialized agents.
-- **Key areas for contribution**:
-  - Developing specialized agents for different research fields
-  - Improving prompt engineering for existing agents
-  - Enhancing analysis accuracy
-  - Adding support for different document formats
-  - Implementing more sophisticated feedback
-  - including Visual Language Models to provide feedback on figures.
-  - Reproduce results based on available code and data?
-  - Help us aggregate a database of publicly available preprints, reviews, and final manuscripts for a RAG System.
-  - Help us aggregate a database of journal/conference submission criteria
+
+# Key Areas for Contribution to the AI Peer Reviewer
+
+## 1. Agent Development & Specialization
+- Develop specialized agents tailored to different research domains and disciplines.
+- Evaluate and integrate the best foundation models for specific review tasks (e.g., factual accuracy, clarity, novelty).
+
+## 2. Prompt Engineering & Modularity
+- Improve and optimize prompt engineering for existing agents.
+- Refactor agent prompts into modular, easily editable formats (e.g., `.txt`, `.json`) to enable human-in-the-loop feedback and rapid iteration.
+
+## 3. Feedback Quality & Depth
+- Implement more sophisticated and context-aware feedback mechanisms.
+- Integrate Visual Language Models (VLMs) to provide structured feedback on figures, charts, and tables.
+- Enhance citation feedback:
+  - Correctly identify citation styles (e.g., APA, IEEE, Nature).
+  - Detect and fix formatting inconsistencies.
+
+## 4. Accuracy & Reproducibility
+- Improve overall analysis accuracy across disciplines and document types.
+- Build reproducibility agents that can verify results based on available code and datasets.
+
+## 5. Data & Knowledge Integration
+- Aggregate a structured database of:
+  - Publicly available preprints, peer reviews, and final manuscripts to enable RAG (retrieval-augmented generation).
+  - Journal and conference submission guidelines and formatting requirements.
+
+## 6. Scalability & Performance
+- Parallelize the review pipeline to reduce latency and support bulk document processing.
+- Add support for multiple document formats (e.g., PDF, `.docx`, LaTeX, Overleaf exports).
 
 **Share your feedback**: Submit an issue with your ideas and suggestions. We want to know what kind of feedback you find useful, what is useless, and what you would expect in an ideal review report!
 
