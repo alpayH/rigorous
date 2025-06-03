@@ -34,6 +34,7 @@ This project implements a sophisticated multi-agent system for analyzing academi
 - Improve Feedback Report Layout and Style
 - Add charts and illustration with review insights.
 - Extract the most relevant points and highlight them in an additional section at the beginning of the report
+- Help automate high-value, complex review tasks — such as assessing novelty, improving storyline and narrative flow, embedding research questions and findings within existing literature, and highlighting contributions without overselling them.
 
 ## 🎯 Accuracy & Reproducibility
 - Boost analytical accuracy across formats and domains.
