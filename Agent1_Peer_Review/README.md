@@ -57,8 +57,9 @@ This project is open source under the MIT License. We welcome contributions from
 **Share your feedback**: Submit an issue with your ideas and suggestions. We want to know what kind of feedback you find useful, what is useless, and what you would expect in an ideal review report!
 
 # Agent Structure
+## Specialized Agents (Reviewer Army)
 
-The system currently includes 24 spezialized agents focusing on the following review criteria across three main categories:
+The system currently includes 24 spezialized agents focusing on the following review criteria across three main categories. Think of them like a reviewer army bruteforcing your manuscript to find every potential isse.
 
 ### Section Agents (S1-S10)
 - S1: Title and Keywords Analysis
@@ -92,8 +93,8 @@ The system currently includes 24 spezialized agents focusing on the following re
 
 Per default spezialised agents use GPT-4.1-nano (long-context, cost-efficient model). You can also choose another (local) model.
 
-### Quality Control Agents
-Quality Control Agent serve as a validation layer across each category, they..
+## Quality Control Agents
+Quality Control Agent (think Associate Editor) serve as a validation layer across each category, they..
 - Review and validate outputs from spezialized agents
 - Ensure consistency and quality across analyses
 - Provide a comprehensive final report with:
@@ -103,7 +104,7 @@ Quality Control Agent serve as a validation layer across each category, they..
   - Overall quality assessment
 - Per default Quality Control Agents use GPT-4.1 for high-quality structured output. You can also choose another (local) model.
 
-### Executive Summary Agent
+## Executive Summary Agent
 The Executive Summary Agent provides a high-level synthesis through a two-step reasoning process:
 1. Independent Review Generation
    - Analyzes the manuscript independently
