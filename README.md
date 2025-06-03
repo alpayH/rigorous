@@ -19,7 +19,7 @@ This repository is intended for tools that make the creation, evaluation, and di
   - Detailed feedback on sections, scientific rigor, and writing quality (including quality control loops)
   - JSON output with actionable recommendations
   - PDF report generation
-  - [📄 Detailed Documentation](https://github.com/robertjakob/rigorous/tree/main/Agent1_Peer_Review#readme)
+  - [📄 Detailed Documentation and Key Areas for Contribution](https://github.com/robertjakob/rigorous/tree/main/Agent1_Peer_Review#readme)
   - Please provide feedback via [this short feedback form](https://docs.google.com/forms/d/1EhQvw-HdGRqfL01jZaayoaiTWLSydZTI4V0lJSvNpds) to help us improve the system.
 
 ### In Development
