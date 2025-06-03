@@ -26,7 +26,7 @@ This project is open source under the MIT License. We welcome contributions from
 
 ## 🧾 Prompt Engineering & Modularity
 - Improve prompt quality for consistent agent outputs.
-- Refactor prompts into editable formats (e.g., `.txt`, `.json`) for easier debugging and iteration.
+- Refactor prompts into editable formats (e.g., `.txt`, `.json`) for easier debugging, iteration, and community feedback.
 
 ## 📝 Feedback Quality & Depth
 - Enhance feedback relevance and contextuality.
