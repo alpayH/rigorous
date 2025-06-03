@@ -28,6 +28,7 @@ This repository is intended for tools that make the creation, evaluation, and di
   - Integration with Agent1_Peer_Review in progress
   - Testing and validation ongoing
   - [🛠️ Development Plan](https://github.com/robertjakob/rigorous/tree/main/Agent2_Outlet_Fit#readme)
+  - We are processing your feedback for v2.
 
 ### Future Ideas
 - **Embedding-based similarity analysis** (by [@andjar](https://github.com/andjar)): Use embeddings (as in [*The landscape of biomedical research*](https://github.com/berenslab/pubmed-landscape)) to compare a paper’s abstract with existing literature. This could help surface uncited but relevant work and suggest suitable journals based on similarity clusters.
