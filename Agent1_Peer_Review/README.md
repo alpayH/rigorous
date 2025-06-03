@@ -57,6 +57,10 @@ This project implements a sophisticated multi-agent system for analyzing academi
 - Use this feedback to automatically identify high-value vs. low-value outputs.
 - Enable fine-tuning of agents based on aggregated user response patterns.
 
+## 🐞 Known Bugs
+- Report Generation can fail upon rare "<" ">" occurences in the feedback
+- There are rare occurences, whereby images are embedded in a way that get_image_rects() can't find them.
+
 **Share your feedback**: Submit an issue with your ideas and suggestions. We want to know what kind of feedback you find useful, what is useless, and what you would expect in an ideal review report!
 
 # Agent Structure (how it works so far!)
