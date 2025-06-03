@@ -20,7 +20,7 @@ This project implements a sophisticated multi-agent system for analyzing academi
 
 ## 🧠 Agent Development & Specialization
 - Build domain-specific agents for fields like medicine, economics, and computer science.
-- Identify and integrate optimal foundation models for specific review tasks.
+- Identify optimal foundation models for specific review tasks.
 
 ## 🧾 Prompt Engineering & Modularity
 - Improve prompt quality for consistent agent outputs.
