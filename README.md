@@ -2,7 +2,7 @@
 
 > **Cloud Version Available:** A cloud version of the AI Reviewer is available at [https://www.rigorous.company/](https://www.rigorous.company/). Simply upload your manuscript, provide context on target journal and review focus, and receive a comprehensive PDF report via email within 1-2 working days. We'll provide feedback **free of charge** — however, we would greatly appreciate your feedback in return via [this short form](https://docs.google.com/forms/d/1EhQvw-HdGRqfL01jZaayoaiTWLSydZTI4V0lJSvNpds) to help us improve the AI Reviewer.
 
-> **CWe are currently processing your feedback for v2** Please provide feedback via [this short feedback form](https://docs.google.com/forms/d/1EhQvw-HdGRqfL01jZaayoaiTWLSydZTI4V0lJSvNpds) to help us improve the system.
+> **We are currently processing your feedback for Version 2!** Please provide feedback via [this short feedback form](https://docs.google.com/forms/d/1EhQvw-HdGRqfL01jZaayoaiTWLSydZTI4V0lJSvNpds) to help us improve the system.
 
 ## Vision
 
