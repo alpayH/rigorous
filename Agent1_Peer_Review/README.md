@@ -56,7 +56,7 @@ This project is open source under the MIT License. We welcome contributions from
 
 **Share your feedback**: Submit an issue with your ideas and suggestions. We want to know what kind of feedback you find useful, what is useless, and what you would expect in an ideal review report!
 
-## Agent Structure
+# Agent Structure
 
 The system currently includes 24 spezialized agents focusing on the following review criteria across three main categories:
 
