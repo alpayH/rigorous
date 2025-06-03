@@ -1,7 +1,8 @@
 # Rigorous AI-Powered Scientific Manuscript Analysis
 
 > **Cloud Version Available:** A cloud version of the AI Reviewer is available at [https://www.rigorous.company/](https://www.rigorous.company/). Simply upload your manuscript, provide context on target journal and review focus, and receive a comprehensive PDF report via email within 1-2 working days. We'll provide feedback **free of charge** — however, we would greatly appreciate your feedback in return via [this short form](https://docs.google.com/forms/d/1EhQvw-HdGRqfL01jZaayoaiTWLSydZTI4V0lJSvNpds) to help us improve the AI Reviewer.
->test
+
+> **CWe are currently processing your feedback for v2** Please provide feedback via [this short feedback form](https://docs.google.com/forms/d/1EhQvw-HdGRqfL01jZaayoaiTWLSydZTI4V0lJSvNpds) to help us improve the system.
 
 ## Vision
 
@@ -21,8 +22,6 @@ This repository is intended for tools that make the creation, evaluation, and di
   - JSON output with actionable recommendations
   - PDF report generation
   - [📄 Detailed Documentation and Key Areas for Contribution](https://github.com/robertjakob/rigorous/tree/main/Agent1_Peer_Review#readme)
-  - Please provide feedback via [this short feedback form](https://docs.google.com/forms/d/1EhQvw-HdGRqfL01jZaayoaiTWLSydZTI4V0lJSvNpds) to help us improve the system.
-  -  We are currently processing your feedback for v2!
 
 ### In Development
 - **Agent2_Outlet_Fit**: 🚧 In Development
