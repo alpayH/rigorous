@@ -5,10 +5,29 @@ A multi-agent system for comprehensive manuscript analysis and review.
 
 > **Cloud Version Available:** A cloud version of the AI Reviewer is now available at [https://www.rigorous.company/](https://www.rigorous.company/). Simply upload your manuscript, provide context on target journal and review focus, and receive a comprehensive PDF report via email within 1-2 working days. The cloud version is currently free for testing purposes. We would greatly appreciate your feedback in return via [this short form](https://docs.google.com/forms/d/1EhQvw-HdGRqfL01jZaayoaiTWLSydZTI4V0lJSvNpds) 
 
-
 ## Overview
 
 This project implements a sophisticated multi-agent system for analyzing academic manuscripts. The system uses a combination of section-specific, rigor, and writing quality agents to provide detailed feedback and suggestions for improvement. Each agent specializes in a specific aspect of manuscript analysis and provides structured JSON output.
+
+## Join the Project
+
+This project is open source under the MIT License. We welcome contributions from the community to help improve the AI Reviewer system. Please feel free to submit issues, pull requests, or suggestions for improvements.
+
+**We Need Your Help!** This a work in progress, which means:
+
+- **Expect imperfections**: The system is continuously being improved
+- **Your expertise matters**: Help us improve agent accuracy, especially specialized agents
+- **Key areas for contribution**:
+  - Developing specialized agents for different research fields
+  - Improving prompt engineering for existing agents
+  - Enhancing analysis accuracy
+  - Adding support for different document formats
+  - Implementing more sophisticated feedback
+  - including Visual Language Models to provide feedback on figures.
+  - Reproduce results based on available code and data?
+  - Help us aggregate a database of publicly available preprint, reviews, and final manuscripts for a RAG System.
+
+**Share your feedback**: Submit an issue with your ideas and suggestions.
 
 ## Agent Structure
 
@@ -199,40 +218,6 @@ Agent1_Peer_Review/
 2. Implement the required analysis method
 3. Add the agent to the controller's agent dictionary
 
-## Testing
-
-Run the test suite:
-```bash
-pytest tests/
-```
-
-## License
-
-MIT License
-
-## Contributing
-
-This project is open source under the MIT License. We welcome contributions from the community to help improve the AI Reviewer system. Please feel free to submit issues, pull requests, or suggestions for improvements.
-
-## Join the Project
-
-**We Need Your Help!** This a work in progress, which means:
-
-- **Expect imperfections**: The system is continuously being improved
-- **Your expertise matters**: Help us improve agent accuracy, especially specialized agents
-- **Key areas for contribution**:
-  - Developing specialized agents for different research fields
-  - Improving prompt engineering for existing agents
-  - Enhancing analysis accuracy
-  - Adding support for different document formats
-  - Implementing more sophisticated error detection
-
-**Share your feedback**: Contact us at rjakob@ethz.ch with your experiences and suggestions
-
-**Use more powerful models**: The default implementation uses GPT-4.1 for accessibility, but you can configure the system to use more sophisticated models with your own API keys.
-
-Together, we can build the best review agent team and improve the quality of scientific publishing!
-
 ## Manuscripts Folder
 
 The `manuscripts` folder is where you should place the PDF manuscripts you want to analyze. Please ensure your PDF files are stored here before running the review process.
@@ -246,10 +231,6 @@ OPENAI_API_KEY=your_openai_api_key_here
 ```
 
 Replace `your_openai_api_key_here` with your actual OpenAI API key.
-
-## Additional Information
-
-For more details on how to use this system, please refer to the main project README.
 
 ## Setup Instructions
 
