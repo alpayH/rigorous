@@ -30,6 +30,7 @@ This project is open source under the MIT License. We welcome contributions from
 
 ## 📝 Feedback Quality & Depth
 - Enhance feedback relevance and contextuality.
+- Help us figure out what constitutes a great review.
 - Integrate Visual Language Models (VLMs) for figure and chart critique.
 - Fix citation feedback by accurately detecting and formatting styles (APA, IEEE, etc.).
 - Improve Feedback Report Layout and Style
@@ -54,6 +55,7 @@ This project is open source under the MIT License. We welcome contributions from
 - Design a system for authors to rate and comment on individual review suggestions.
 - Use this feedback to automatically identify high-value vs. low-value outputs.
 - Enable fine-tuning of agents based on aggregated user response patterns.
+- Enable report personalization, allowing authors to specify focus areas (e.g. methodology, writing), preferred tone (e.g. critical, supportive), formatting preferences, or model selection (e.g., Nano vs. 4.1)
 
 
 
