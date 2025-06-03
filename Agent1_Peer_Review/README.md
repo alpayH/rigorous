@@ -56,7 +56,7 @@ This project is open source under the MIT License. We welcome contributions from
 - Use this feedback to automatically identify high-value vs. low-value outputs.
 - Enable fine-tuning of agents based on aggregated user response patterns.
 - Enable report personalization, allowing authors to specify focus areas (e.g. methodology, writing), preferred tone (e.g. critical, supportive), formatting preferences, or model selection (e.g., Nano vs. 4.1)
-
+- Develop in-text feedback capabilities that highlight specific manuscript passages with contextual suggestions and inline comments.
 
 
 **Share your feedback**: Submit an issue with your ideas and suggestions. We want to know what kind of feedback you find useful, what is useless, and what you would expect in an ideal review report!
