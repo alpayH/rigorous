@@ -32,6 +32,9 @@ This project is open source under the MIT License. We welcome contributions from
 - Enhance feedback relevance and contextuality.
 - Integrate Visual Language Models (VLMs) for figure and chart critique.
 - Fix citation feedback by accurately detecting and formatting styles (APA, IEEE, etc.).
+- Improve Feedback Report Layout and Style
+- Add charts and illustration with review insights.
+- Extract the most relevant points and highlight them in an additional section at the beginning of the report
 
 ## 🎯 Accuracy & Reproducibility
 - Boost analytical accuracy across formats and domains.
