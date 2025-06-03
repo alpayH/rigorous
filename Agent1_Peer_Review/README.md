@@ -25,7 +25,8 @@ This project is open source under the MIT License. We welcome contributions from
   - Implementing more sophisticated feedback
   - including Visual Language Models to provide feedback on figures.
   - Reproduce results based on available code and data?
-  - Help us aggregate a database of publicly available preprint, reviews, and final manuscripts for a RAG System.
+  - Help us aggregate a database of publicly available preprints, reviews, and final manuscripts for a RAG System.
+  - Help us aggregate a database of journal/conference submission criteria
 
 **Share your feedback**: Submit an issue with your ideas and suggestions. We want to know what kind of feedback you find useful, what is useless, and what you would expect in an ideal review report!
 
