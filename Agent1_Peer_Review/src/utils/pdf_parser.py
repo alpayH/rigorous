@@ -80,7 +80,11 @@ class PDFParser:
                         image = Image.open(io.BytesIO(image_data))
                         
                         # Get image location on page
-                        rect = page.get_image_rects(xref)[0]  # Get first occurrence
+                        image_rects = page.get_image_rects(xref)
+                        if not image_rects:  # If no rectangles found, skip this image
+                            continue
+                            
+                        rect = image_rects[0]  # Get first occurrence
                         
                         # Try to find caption near the image
                         caption = self._find_caption_near_rect(page, rect, "Figure")
@@ -97,6 +101,9 @@ class PDFParser:
             
             return images
         except Exception as e:
+            # If no images are found, return empty list instead of raising exception
+            if "list index out of range" in str(e):
+                return []
             raise Exception(f"Failed to extract images from PDF: {str(e)}")
     
     def extract_tables(self) -> List[Dict[str, Any]]:
