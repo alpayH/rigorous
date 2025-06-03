@@ -18,7 +18,7 @@ Agent2_Outlet_Fit is designed to:
 
 ## Contributing
 
-This project is open source under the MIT License. We welcome contributions from the community to help improve the AI Peer Reviewer system. Please feel free to submit issues, pull requests, or suggestions for improvements.
+This project is open source under the MIT License. We welcome contributions from the community to help improve the AI Reviewer system. Please feel free to submit issues, pull requests, or suggestions for improvements.
 
 ## STATUS: 🚧 IN PLANNING PHASE
 This tool is currently in the planning and development phase. It aims to serve two key purposes:
