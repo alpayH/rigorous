@@ -42,7 +42,7 @@ This project implements a sophisticated multi-agent system for analyzing academi
 - Enable review suggestions during the writing process (Cursor for papers)
 - Agents with specialized roles and content access interact with each other to solve complex review questions collaboratively (e.g., via CrewAI, AutoGen, LangGraph)
 - After reading only part of the manuscript, they reason about the rest and compare their own input against the paper (both top down and bottom up)
-- Agents do a webliterature search to compare content against what they find online (e.g., via Browser Use)
+- Agents do a web search to compare content against what they find online (e.g., via Browser Use). This could involve checking recent publications, journal criteria, etc.
 - Users can interact with agents for follow-on questions. Based on these interactions, agents learn researcher preferences.
 
 ## 🎯 Accuracy & Reproducibility
