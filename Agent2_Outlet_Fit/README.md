@@ -74,7 +74,7 @@ Each agent should:
 - Be modular and reusable
 - Accept clearly defined input/output types
 - Use tools such as:
-  - Playwright, BeautifulSoup → web scraping
+  - Browser-Use, Playwright, BeautifulSoup → web scraping
   - FAISS, OpenAI Embeddings → semantic matching
   - PyMuPDF or GROBID → PDF parsing
   - LLM API → reasoning and language evaluation
