@@ -6,7 +6,7 @@
 
 This Agent is designed to:
 - Evaluate manuscript fit with target journals/conferences
-- Support journals/conferences in desk rejection decisions
+- Support journals/conferences in (faster) desk rejection decisions
 - Enable researchers to pre-check manuscripts before submission
 
 ## Status
@@ -19,12 +19,6 @@ This Agent is designed to:
 ## Contributing
 
 This project is open source under the MIT License. We welcome contributions from the community to help improve the AI Reviewer system. Please feel free to submit issues, pull requests, or suggestions for improvements.
-
-## STATUS: 🚧 IN PLANNING PHASE
-This tool is currently in the planning and development phase. It aims to serve two key purposes:
-1. Help reviewers evaluate manuscripts against specific journal/conference criteria
-2. Assist journals and conferences in desk rejection decisions by providing automated preliminary screening
-3. Enable researchers to pre-check their manuscripts against target outlet requirements before submission
 
 ## GAMEPLAN
 
