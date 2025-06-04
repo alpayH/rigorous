@@ -21,7 +21,7 @@ This repository is intended for tools that make the creation, evaluation, and di
   - Detailed feedback on sections, scientific rigor, and writing quality (including quality control loops)
   - JSON output with actionable recommendations
   - PDF report generation
-  - [📄 Detailed Documentation and Key Areas for Contribution](https://github.com/robertjakob/rigorous/tree/main/Agent1_Peer_Review/readme.md)
+  - [📄 Detailed Documentation and Key Areas for Contribution](https://github.com/robertjakob/rigorous/blob/main/Agent1_Peer_Review/README.md)
 
 ### In Development
 - **Agent2_Outlet_Fit**: 🚧 In Development
