@@ -66,6 +66,9 @@ This project implements a sophisticated multi-agent system for analyzing academi
 ## 🐞 Known Bugs
 - Report Generation can fail upon rare "<" ">" occurences in the feedback
 
+## 🐞 Most Requested Changes
+- Summarize the most impactful points at the beginning (the report is too long and focuses too heavily on language)
+
 **Share your feedback**: Submit an issue with your ideas and suggestions. We want to know what kind of feedback you find useful, what is useless, and what you would expect in an ideal review report!
 
 # Agent Structure (how it works so far!)
