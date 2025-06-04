@@ -5,7 +5,7 @@ A multi-agent system for comprehensive manuscript analysis and review.
 
 > **Cloud Version Available:** A cloud version of the AI Reviewer is now available at [https://www.rigorous.company/](https://www.rigorous.company/). Simply upload your manuscript, provide context on target journal and review focus, and receive a comprehensive PDF report via email within 1-2 working days.
 
->  **We are currently processing your feedback to build the next iteration of the AI Reviewer!** Please provide feedback via [this short feedback form](https://docs.google.com/forms/d/1EhQvw-HdGRqfL01jZaayoaiTWLSydZTI4V0lJSvNpds) to help us improve the system.
+>  **We are currently processing your feedback to build the next iteration of the AI Reviewer (v0.2)!** Please provide feedback via [this short feedback form](https://docs.google.com/forms/d/1EhQvw-HdGRqfL01jZaayoaiTWLSydZTI4V0lJSvNpds) to help us improve the system.
 
 ## Overview
 
