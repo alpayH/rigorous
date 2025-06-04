@@ -4,7 +4,7 @@
 
 ## Purpose
 
-Agent2_Outlet_Fit is designed to:
+This Agent is designed to:
 - Evaluate manuscript fit with target journals/conferences
 - Support journals/conferences in desk rejection decisions
 - Enable researchers to pre-check manuscripts before submission
@@ -26,7 +26,7 @@ This tool is currently in the planning and development phase. It aims to serve t
 2. Assist journals and conferences in desk rejection decisions by providing automated preliminary screening
 3. Enable researchers to pre-check their manuscripts against target outlet requirements before submission
 
-## GAMEPLAN: Agent2_outletfit
+## GAMEPLAN
 
 ## 🎯 INPUTS:
 - journal_query: A string representing a journal, e.g., "I want to publish at NPJ Digital Medicine" found in context folder
