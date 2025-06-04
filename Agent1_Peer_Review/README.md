@@ -65,7 +65,6 @@ This project implements a sophisticated multi-agent system for analyzing academi
 
 ## 🐞 Known Bugs
 - Report Generation can fail upon rare "<" ">" occurences in the feedback
-- There are rare occurences, whereby images are embedded in a way that get_image_rects() can't find them.
 
 **Share your feedback**: Submit an issue with your ideas and suggestions. We want to know what kind of feedback you find useful, what is useless, and what you would expect in an ideal review report!
 
