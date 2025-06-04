@@ -22,6 +22,7 @@ This project implements a sophisticated multi-agent system for analyzing academi
 
 ## 🧠 Agent Development & Specialization
 - Build domain-specific agents for fields like medicine, economics, and computer science.
+- Identify and articulate domain-specific principles of good research practice and responsible research conduct.
 - Identify optimal foundation models for specific review tasks.
 
 ## 🧾 Prompt Engineering & Modularity
@@ -43,7 +44,6 @@ This project implements a sophisticated multi-agent system for analyzing academi
 - Agents with specialized roles and content access interact with each other to solve complex review questions collaboratively (e.g., via CrewAI, AutoGen, LangGraph)
 - After reading only parts of the manuscript, agents reason about the rest and compare their own input against the paper (both top-down and bottom-up)
 - Agents do a web search to compare content against what they find online (e.g., via Browser Use). This could involve checking recent publications, journal criteria, etc.
-- Users can interact with agents for follow-on questions. Based on these interactions, agents learn researcher preferences.
 
 ## 🎯 Accuracy & Reproducibility
 - Boost analytical accuracy across formats and domains.
@@ -62,6 +62,7 @@ This project implements a sophisticated multi-agent system for analyzing academi
 - Design a system for authors to rate and comment on individual review suggestions.
 - Use this feedback to automatically identify high-value vs. low-value outputs.
 - Enable fine-tuning of agents based on aggregated user response patterns.
+- Users can interact with agents for follow-on questions. Based on these interactions, agents learn researcher preferences.
 
 ## 🐞 Known Bugs
 - Report Generation can fail upon rare "<" ">" occurences in the feedback
