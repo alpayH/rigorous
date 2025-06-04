@@ -74,6 +74,10 @@ This project implements a sophisticated multi-agent system for analyzing academi
 
 **Share your feedback**: Submit an issue with your ideas and suggestions. We want to know what kind of feedback you find useful, what is useless, and what you would expect in an ideal review report!
 
+## Related Work
+- [Open-Source Web Research Agents](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)
+- [Reviewing Scientific Papers](https://russpoldrack.substack.com/p/reviewing-scientific-papers-with-7a6)
+
 # Agent Structure (how it works so far!)
 ## Specialized Agents (Reviewer Army)
 
