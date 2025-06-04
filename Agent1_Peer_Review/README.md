@@ -39,6 +39,7 @@ This project implements a sophisticated multi-agent system for analyzing academi
 - Extract the most relevant points and highlight them in an additional section at the beginning of the report
 - Help automate high-value, complex review tasks — such as assessing novelty, improving storyline and narrative flow, embedding research questions and findings within existing literature, and highlighting contributions without overselling them.
 - Enable report personalization, allowing authors to specify focus areas (e.g. methodology, writing), preferred tone (e.g. critical, supportive), formatting preferences, or model selection (e.g., Nano vs. 4.1)
+- Let authors preselect agents and review models
 - Develop in-text feedback capabilities that highlight specific manuscript passages with contextual suggestions and inline comments.
 - Enable review suggestions during the writing process (Cursor for papers)
 - Agents with specialized roles and content access interact with each other to solve complex review questions collaboratively (e.g., via CrewAI, AutoGen, LangGraph)
