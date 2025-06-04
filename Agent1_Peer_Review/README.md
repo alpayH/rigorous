@@ -40,7 +40,10 @@ This project implements a sophisticated multi-agent system for analyzing academi
 - Enable report personalization, allowing authors to specify focus areas (e.g. methodology, writing), preferred tone (e.g. critical, supportive), formatting preferences, or model selection (e.g., Nano vs. 4.1)
 - Develop in-text feedback capabilities that highlight specific manuscript passages with contextual suggestions and inline comments.
 - Enable review suggestions during the writing process (Cursor for papers)
-- Agents with specialized focus and content access interact with each other to solve complex review questions collaboratively (e.g., via CrewAI, AutoGen, LangGraph)
+- Agents with specialized roles and content access interact with each other to solve complex review questions collaboratively (e.g., via CrewAI, AutoGen, LangGraph)
+- After reading only part of the manuscript, they reason about the rest and compare their own input against the paper (both top down and bottom up)
+- Agents do a webliterature search to compare content against what they find online (e.g., via Browser Use)
+- Users can interact with agents for follow-on questions.
 
 ## 🎯 Accuracy & Reproducibility
 - Boost analytical accuracy across formats and domains.
