@@ -30,7 +30,7 @@ This repository is intended for tools that make the creation, evaluation, and di
   - Testing and validation ongoing
   - [🛠️ Development Plan](https://github.com/robertjakob/rigorous/blob/main/Agent2_Outlet_Fit/README.md)
 
-### Future Ideas
+### Future Modules and Ideas
 - **Embedding-based similarity analysis** (by [@andjar](https://github.com/andjar)): Use embeddings (as in [*The landscape of biomedical research*](https://github.com/berenslab/pubmed-landscape)) to compare a paper’s abstract with existing literature. This could help surface uncited but relevant work and suggest suitable journals based on similarity clusters.
 - Support for Drafting Reviewer Reponses
 - Feedback on Research Proposals and Protocols.
