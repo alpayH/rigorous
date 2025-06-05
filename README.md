@@ -32,6 +32,8 @@ This repository is intended for tools that make the creation, evaluation, and di
 
 ### Future Ideas
 - **Embedding-based similarity analysis** (by [@andjar](https://github.com/andjar)): Use embeddings (as in [*The landscape of biomedical research*](https://github.com/berenslab/pubmed-landscape)) to compare a paper’s abstract with existing literature. This could help surface uncited but relevant work and suggest suitable journals based on similarity clusters.
+- Support for Drafting Reviewer Reponses
+- Feedback on Research Proposals and Protocols.
   
 ## Requirements
 
