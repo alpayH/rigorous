@@ -68,6 +68,7 @@ This project implements a sophisticated multi-agent system for analyzing academi
 ## 🐞 Known Bugs
 - Report Generation can fail upon rare "<" ">" occurences in the feedback
 - Citation Agent making unproper suggestions.
+- special characters (e.g., ligatures) are falsely classified as typos
 
 ## 😤 Most Frequently Requested Changes
 - Summarize the most impactful points at the beginning (the report is too long and focuses too heavily on language)
