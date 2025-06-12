@@ -7,6 +7,8 @@ A multi-agent system for comprehensive manuscript analysis and review.
 
 >  **We are currently processing your feedback to build the next iteration of the AI Reviewer (v0.2)!** Please provide feedback via [this short feedback form](https://docs.google.com/forms/d/1EhQvw-HdGRqfL01jZaayoaiTWLSydZTI4V0lJSvNpds) to help us improve the system.
 
+> Support AI Reviewer v0.2 by rocking some *peer-reviewed merch* 👕🧠 – [grab yours here](https://rigorous-shop.fourthwall.com/) – GitHub contributors get free gear, because science.
+
 ## Overview
 
 This project implements a sophisticated multi-agent system for analyzing academic manuscripts. The system uses a combination of section-specific, rigor, and writing quality agents to provide detailed feedback and suggestions for improvement. Each agent specializes in a specific aspect of manuscript analysis and provides structured JSON output.
