@@ -4,6 +4,8 @@
 
 > **We are currently processing your feedback to build the next iteration of the AI Reviewer (v0.2)!** Please provide feedback via [this short feedback form](https://docs.google.com/forms/d/1EhQvw-HdGRqfL01jZaayoaiTWLSydZTI4V0lJSvNpds) to help us improve the system.
 
+> Support AI Reviewer v0.2 by rocking some *peer-reviewed merch* 👕🧠 – [grab yours here](https://rigorous-shop.fourthwall.com/) – GitHub contributors get free gear, because science.
+
 ## Vision
 
 This repository is intended for tools that make the creation, evaluation, and distribution of scientific knowledge more transparent, cheaper, faster, and better. Let's build this future together!
