@@ -1,13 +1,14 @@
 # Agent1_Peer_Review
 A multi-agent system for comprehensive manuscript analysis and review.
 
-> **Note:** This is an open-source project under the MIT License. We welcome contributions from the community to help improve the AI Reviewer system. Please feel free to submit issues, pull requests, or suggestions for improvements.
+# Rigorous AI-Powered Scientific Manuscript Analysis
 
-> **Cloud Version Available:** A cloud version of the AI Reviewer is now available at [https://www.rigorous.company/](https://www.rigorous.company/). Simply upload your manuscript, provide context on target journal and review focus, and receive a comprehensive PDF report via email within 1-2 working days.
+> **v0.2 Now Live:** The latest version of the AI Reviewer (v0.2) is now available at [https://www.rigorous.review/](https://www.rigorous.review/). Upload your manuscript, provide context on your target journal and review goals, and receive structured feedback directly online via an interactive interface — now with progress tracking built in. Once initial testing of v0.2 is complete, we will make all module prompts open source to promote transparency and enable community contributions.
 
->  **We are currently processing your feedback to build the next iteration of the AI Reviewer (v0.2)!** Please provide feedback via [this short feedback form](https://docs.google.com/forms/d/1EhQvw-HdGRqfL01jZaayoaiTWLSydZTI4V0lJSvNpds) to help us improve the system.
+> **Help Us Improve!** Please provide feedback via [this short feedback form](https://docs.google.com/forms/d/1EhQvw-HdGRqfL01jZaayoaiTWLSydZTI4V0lJSvNpds) to help us improve the system.
 
 > Support AI Reviewer v0.2 by rocking some *peer-reviewed merch* 👕🧠 – [grab yours here](https://rigorous-shop.fourthwall.com/) – GitHub contributors get free gear.
+
 ## Overview
 
 This project implements a sophisticated multi-agent system for analyzing academic manuscripts. The system uses a combination of section-specific, rigor, and writing quality agents to provide detailed feedback and suggestions for improvement. Each agent specializes in a specific aspect of manuscript analysis and provides structured JSON output.
