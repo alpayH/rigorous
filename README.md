@@ -1,6 +1,6 @@
 # Rigorous AI-Powered Scientific Manuscript Analysis
 
-> **v0.2 Now Live:** The latest version of the AI Reviewer (v0.2) is now available at [https://www.rigorous.review/](https://www.rigorous.review/). Upload your manuscript, provide context on your target journal and review goals, and receive structured feedback directly online via an interactive interface — now with progress tracking built in. Once initial testing of v0.2 is complete, we will make all module prompts open source to promote transparency and enable community contributions.
+> **v0.2 Now Live:** The latest version of the AI Reviewer (v0.2) is now available at [https://www.rigorous.review/](https://www.rigorous.review/). Upload your manuscript, provide context on your target journal and receive structured feedback directly online via an interactive interface — now with progress tracking built in. Once initial testing of v0.2 is complete, we will make all module prompts open source to promote transparency and enable community contributions.
 
 > **Help Us Improve!** Please provide feedback via [this short feedback form](https://docs.google.com/forms/d/1EhQvw-HdGRqfL01jZaayoaiTWLSydZTI4V0lJSvNpds) to help us improve the system.
 
