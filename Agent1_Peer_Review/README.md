@@ -80,7 +80,7 @@ This project implements a sophisticated multi-agent system for analyzing academi
 - [Open-Source Web Research Agents](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)
 - [Reviewing Scientific Papers with AI](https://russpoldrack.substack.com/p/reviewing-scientific-papers-with-7a6)
 
-# Agent Structure (how it works so far!)
+# Agent Structure (v0.1)
 ## Specialized Agents (Reviewer Army)
 
 The system currently includes 24 spezialized agents focusing on the following review criteria across three main categories. Think of them like a reviewer army bruteforcing your manuscript to find every potential isse.
