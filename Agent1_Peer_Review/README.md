@@ -5,7 +5,7 @@ A multi-agent system for comprehensive manuscript analysis and review.
 
 > **Help Us Improve!** Please provide feedback via [this short feedback form](https://docs.google.com/forms/d/1EhQvw-HdGRqfL01jZaayoaiTWLSydZTI4V0lJSvNpds) to help us improve the system.
 
-> Support AI Reviewer v0.2 by rocking some *peer-reviewed merch* 👕🧠 – [grab yours here](https://rigorous-shop.fourthwall.com/) – GitHub contributors get free gear.
+> Support AI Reviewer v0.3 by rocking some *peer-reviewed merch* 👕🧠 – [grab yours here](https://rigorous-shop.fourthwall.com/) – GitHub contributors get free gear.
 
 ## Overview
 
