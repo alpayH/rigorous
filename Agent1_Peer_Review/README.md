@@ -1,4 +1,4 @@
-# Agent1_Peer_Review
+# Rigorous Reviewer (v0.1)
 A multi-agent system for comprehensive manuscript analysis and review.
 
 > **v0.2 Now Live:** The latest version of the AI Reviewer (v0.2) is now available at [https://www.rigorous.review/](https://www.rigorous.review/). Upload your manuscript, provide context on your target journal and review goals, and receive structured feedback directly online via an interactive interface — now with progress tracking built in. Once initial testing of v0.2 is complete, we will make all module prompts open source to promote transparency and enable community contributions.
