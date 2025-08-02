@@ -12,13 +12,13 @@ This repository is intended for tools that make the creation, evaluation, and di
 
 ## Project Structure
 
-- **Agent1_Peer_Review**: Multiagent AI review system for comprehensive manuscript analysis, detailed feedback, and PDF report generation.
+- **Agent1_Peer_Review**: Multiagent AI review system for comprehensive manuscript analysis, detailed feedback, and PDF report generation (v0.1).
 - **Agent2_Outlet_Fit**: (In Development) Tool for evaluating manuscript fit with target journals/conferences.
 
 ## Current Status
 
 ### Active Tools
-- **Agent1_Peer_Review**: ✅ MVP Ready for use!
+- **Agent1_Peer_Review**: ✅ v0.1 Ready for use!
   - Comprehensive manuscript analysis with specialized agents
   - Detailed feedback on sections, scientific rigor, and writing quality (including quality control loops)
   - JSON output with actionable recommendations
