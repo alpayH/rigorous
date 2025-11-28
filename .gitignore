@@ -23,6 +23,7 @@ wheels/
 .installed.cfg
 *.egg
 venv/
+.venv/
 
 # Analysis results
 **/analysis_results/

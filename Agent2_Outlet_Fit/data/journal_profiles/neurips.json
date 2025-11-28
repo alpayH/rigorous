@@ -1,0 +1,9 @@
+{
+  "name": "NeurIPS (Neural Information Processing Systems)",
+  "strict_rules": [
+    "Must contribute to machine learning, neuroscience, or cognitive science.",
+    "Abstract should be self-contained.",
+    "Mathematical rigor is required.",
+    "Clinical trials are NOT required."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Nature Medicine",
+  "strict_rules": [
+    "Abstract must be unstructured (no bold sub-headers like 'Background:' or 'Methods:').",
+    "Must include a distinct 'Data Availability' section.",
+    "Citations must be numerical style [1], not Author-Date (Smith, 2021).",
+    "Must demonstrate direct clinical applicability or translational biological validation."
+  ]
+}
