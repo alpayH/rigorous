@@ -5,6 +5,7 @@
 ## Purpose
 
 This Agent is designed to:
+
 - Evaluate manuscript fit with target journals/conferences
 - Support journals/conferences in (faster) desk rejection decisions
 - Enable researchers to pre-check manuscripts before submission
@@ -12,6 +13,7 @@ This Agent is designed to:
 ## Status
 
 🚧 **In Development**
+
 - Core functionality being implemented
 - Integration with Agent1_Peer_Review in progress
 - Testing and validation ongoing
@@ -22,19 +24,21 @@ This project is open source under the MIT License. We welcome contributions from
 
 ## GAMEPLAN
 
-## 🎯 INPUTS:
+## 🎯 INPUTS
+
 - journal_query: A string representing a journal, e.g., "I want to publish at NPJ Digital Medicine" found in context folder
 - manuscript_pdf: A PDF academic manuscript to be evaluated found in manuscripts folder
 
 ---
 
-## FUNCTIONAL LAYERS & AGENT SPECIFICATIONS:
-
+## FUNCTIONAL LAYERS & AGENT SPECIFICATIONS
 
 ### 1. OUTLET RESEARCH AGENTS
+
 Goal: Automatically extract journal-specific publishing criteria from online sources.
 
 **Agents:**
+
 - PolicyCrawlerAgent: Scrapes official submission guidelines, formatting, ethics, and referencing requirements.
 - ScopeAnalyzerAgent: Analyzes the journal's aims and scope to determine topical fit.
 - EditorialBehaviorAgent: Uses recent articles (titles, abstracts) to infer preferred methodologies and topics.
@@ -45,9 +49,11 @@ Goal: Automatically extract journal-specific publishing criteria from online sou
 ---
 
 ### 2. CRITERIA SYNTHESIS AGENTS
+
 Goal: Convert raw data into structured, weighted publishing criteria.
 
 **Agents:**
+
 - CriteriaGeneratorAgent: Translates scraped data into JSON/YAML schemas for validation.
 - CriteriaWeightingAgent: Assigns priorities or must-have/optional tags to criteria.
 - RiskHeuristicAgent: Estimates desk-rejection risk based on missing or weak components.
@@ -55,9 +61,11 @@ Goal: Convert raw data into structured, weighted publishing criteria.
 ---
 
 ### 3. MANUSCRIPT EVALUATION AGENTS
+
 Goal: Assess the manuscript against journal-specific requirements.
 
 **Agents:**
+
 - PDFParserAgent: Extracts and segments text from the manuscript PDF.
 - SectionValidatorAgent: Verifies section presence, structure, and ordering.
 - ScopeFitAgent: Checks if manuscript topic aligns with journal scope (via semantic similarity).
@@ -67,10 +75,12 @@ Goal: Assess the manuscript against journal-specific requirements.
 
 ---
 
-## 🧱 ARCHITECTURE:
+## 🧱 ARCHITECTURE
+
 Use LangChain or CrewAI to orchestrate agents.
 
 Each agent should:
+
 - Be modular and reusable
 - Accept clearly defined input/output types
 - Use tools such as:
@@ -81,8 +91,10 @@ Each agent should:
 
 ---
 
-## ✅ OUTPUT:
+## ✅ OUTPUT
+
 A JSON report that includes:
+
 - ✔️ Fulfilled requirements
 - ❌ Missing elements
 - 📈 Desk rejection likelihood (1-5 scale)
@@ -90,7 +102,8 @@ A JSON report that includes:
 
 ---
 
-## GOAL:
+## GOAL
+
 Build a multiagent pipeline that automatically reverse-engineers a target outlet's expectations and assesses a manuscript's fit. The tool serves three key purposes:
 
 1. **For Reviewers**: Streamline the review process by automatically checking manuscripts against journal/conference criteria
