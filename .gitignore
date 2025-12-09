@@ -28,9 +28,6 @@ venv/
 # Analysis results
 **/analysis_results/
 */results/
-# PDF files
-**/manuscripts/*.pdf
-*/reports/*
 
 # IDE
 .vscode/
